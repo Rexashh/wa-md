@@ -1,25 +1,25 @@
 {
-  "name": "raganork-md",
+  "name": "Rexa-md",
   "version": "3.0.5",
-  "description": "Raganork whatsapp bot- Multi device version.",
+  "description": "Rexa whatsapp bot- Multi device version.",
   "scripts": {
     "start": "pm2 start . --attach --name Raganork"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/souravkl11/raganork-md.git"
+    "url": "git+https://github.com/Rexashh/wa-md.git"
   },
   "keywords": [
     "whatsapp",
     "bot",
     "multi-device"
   ],
-  "author": "Sourav",
-  "developer": "@souravkl11",
+  "author": "Rexa",
+  "developer": "@Rexashh",
   "license": "GPL-3.0-or-later",
-  "homepage": "https://github.com/souravkl11/raganork#readme",
+  "homepage": "https://github.com/Rexashh/wa-md#readme",
   "dependencies": {
-    "@adiwajshing/baileys": "git+https://github.com/souravkl11/Baileys.git",
+    "@adiwajshing/baileys": "git+https://github.com/Rexashh/Baileys.git",
     "@adiwajshing/keyed-db": "0.2.4",
     "acrcloud": "1.4.0",
     "awesome-phonenumber": "5.3.0",
