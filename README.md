@@ -8,8 +8,8 @@
 <div>
 <br>
   
-<a href="https://raganork.ml/api/deploy-md" target="blank"><img align="center" src="https://i.imgur.com/gtK4XLX.png" alt="Deploy bot" height="112" width="310" />(HEROKU)</a>
-  <div>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Rexashh/wa-md"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
+
 <br>
 <a href="https://raganork.souravkl11.xyz/deploy" target="blank"><img align="center" src="https://i.imgur.com/gtK4XLX.png" alt="Deploy bot" height="112" width="310" />(KOYEB)</a>
   <div>
